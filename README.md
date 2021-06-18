@@ -1,3 +1,3 @@
 # Rocketseat Ignite desafio app to-do
 ## Desafio: Conceitos do React
-Nesse desafio, tivemos que criar uma aplicação para treinar o que aprendemos no primeiro módulo. Essa foi uma aplicação onde o principal objetivo é uma pequena aplicação de atividades a fazer, para treinar principalmente sobre manipulação do estado no React.
+Nesse desafio, tivemos que criar uma aplicação para treinar o que aprendemos sobre React no primeiro módulo. Esse foi um desafio no qual o principal objetivo era desenvolver a lógica de uma pequena aplicação para criar, listar e excluir to-dos, as técnicas abordadas foram principalmente manipulação de estado no React.
